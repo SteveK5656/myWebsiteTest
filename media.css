@@ -1,0 +1,526 @@
+@media only screen and (max-width: 1200px) {
+
+    .headerText{
+        width: 70%;
+
+    }
+
+
+
+
+
+    .servicesContainer{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .storyBox{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .serviceType1{
+        width: 23%;
+        min-height: 350px;
+        background-color: #B3D0FA;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+    }
+    .serviceType2{
+        width: 23%;
+        min-height: 350px;
+        background-color: white;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+    }
+    .serviceOption{
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1060px) {
+    .headerText h1{
+        font-size: 70px;
+        font-family: Arial;
+        color: #E18611;
+    }
+    .headerText p{
+        font-size: 13px;
+        font-family: Arial;
+    }
+
+
+
+
+
+    .serviceType1{
+        width: 29%;
+        min-height: 350px;
+        background-color: #B3D0FA;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+    }
+    .serviceType2{
+        width: 29%;
+        min-height: 350px;
+        background-color: white;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+    }
+    .chart1{
+        width: 46%;
+    }
+    .chart2{
+        width: 46%;
+    }
+    .chart3{
+        width: 96%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 840px) {
+    .serviceType1{
+        width: 46%;
+        min-height: 350px;
+        background-color: #B3D0FA;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+    }
+    .serviceType2{
+        width: 46%;
+        min-height: 350px;
+        background-color: white;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+    }
+    .box1, .box3, .box4{
+        font-size: 18px;
+    }
+    .upText{
+        font-size: 18px;
+    }
+    .downText{
+        font-size: 40px;
+    }
+    .storyPicture img{
+        width: 100%;
+        height: 70%;
+    }
+
+
+
+    .cntLogoText{
+        width: 100%;
+    }
+    .cntLogo{
+        width: 70px;
+        height: 70px;
+    }
+    .cntText{
+        font-size: 15px;
+    }
+    .contactPicture img{
+        width: 100%;
+        height: 50%;
+    }
+    .contactText p{
+        font-size: 15px;
+    }
+
+
+    .registrationContainer{
+        font-size: 20px;
+        text-align: center;
+    }
+    .regist{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+    .regist input{
+        width: 100%;
+
+
+    }
+    .regist button{
+        width: 100%;
+
+    }
+
+    .toursContainer{
+        font-size: 15px;
+    }
+    .toursContainer button{
+        width: 30%;
+    }
+    .chart1, .chart2, .chart3{
+        width: 90%;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 540px) {
+    .serviceType1{
+        width: 80%;
+        min-height: 350px;
+        background-color: #B3D0FA;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+        margin: auto;
+    }
+    .serviceType2{
+        width: 80%;
+        min-height: 350px;
+        background-color: white;
+        border-radius: 25px;
+        display: flex;
+        flex-direction: column;
+        /*align-items: center;*/
+        justify-content: center;
+        gap: 40px;
+        padding-left: 30px;
+        font-size: 18px;
+        margin: auto;
+    }
+
+    .box1, .box3, .box4{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 26px;
+        text-align: center;
+    }
+    .box1 button{
+        align-self: center;
+    }
+    .exploreBox{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .storyBox{
+        max-width: 500px;
+        /*min-height: 700px;*/
+        margin: auto;
+        /*background-color: red;*/
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .storyPicture{
+        width: 100%;
+        height: 500px;
+        /*background-color: yellow;*/
+    }
+    .storyPicture img{
+        width: 100%;
+        height: 100%;
+    }
+    .storyText{
+        width: 100%;
+        height: 500px;
+        /*background-color: yellow;*/
+        display: flex;
+        flex-direction: column;
+        align-items: end;
+        justify-content: space-between;
+    }
+    .upText{
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+    .downText{
+        width: 100%;
+        font-size: 50px;
+        text-align: center;
+        color: white;
+    }
+    .contactBox{
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .contactText{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        text-align: center;
+    }
+    .cntLogoText{
+        width: 70%
+    }
+    .contactText p{
+        font-size: 20px;
+    }
+
+    .cntLogo{
+        width: 100px;
+        height: 100px;
+        background-color: #77AAF6;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .cntLogo img{
+        width: 60%;
+        height: 60%;
+    }
+
+    .cntText{
+        width: 60%;
+        font-size: 28px;
+
+    }
+    .cntText h4{
+        color: #77AAF6;
+    }
+    .cntText h4:hover{
+        color: orange;
+    }
+    .contactPicture{
+        width: 90%;
+        height: 400px;
+        /*background-color: yellow;*/
+        display: flex;
+        align-items: center;
+
+    }
+    .contactPicture img{
+        width: 100%;
+        height: 80%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
