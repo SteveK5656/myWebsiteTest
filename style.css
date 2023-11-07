@@ -681,10 +681,17 @@ footer{
     position: fixed;
     top: 100px;
     right: 100px;
-    background-color: #77AAF6;
+    background-color: #1b70f0;
+    border-radius: 10px;
 }
 
+.navBar button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
 
+}
 
 
 
